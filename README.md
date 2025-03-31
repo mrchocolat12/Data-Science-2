@@ -1,5 +1,5 @@
 # Data-Science-2
-This is my first project about cleaning data using numpy and pandas that i had been taught in my university.
+This is my first project about cleaning data using numpy and pandas.
 
 Target: use the clean_feature.csv dataset and basic convolutional network knowledge to predict the probability of which error will occur in the next two hours (or optional time).
 
